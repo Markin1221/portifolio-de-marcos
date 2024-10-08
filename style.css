@@ -1,0 +1,128 @@
+body{
+    background-image: url(imagens/caos4.webp);
+}
+h1 {
+    
+    font-size: 2.5rem; /* Tamanho da fonte */
+    color: #ffffff; /* Cor do texto */
+    letter-spacing: 0.1rem; /* Espaçamento entre letras */
+    margin: 0;
+    font-family: sans-serif;
+    
+    
+    
+}
+h2{
+   color:rgb(255, 255, 255);
+   font-size:30px;
+   
+}
+h3{
+    color: #ffffff;
+}
+p{
+    color: #ffffff; 
+    font-size: 20px;
+    
+    
+    
+}
+footer {
+    background-color: #F5F7F8; /* Cor de fundo do rodapé */
+    color: #000000; /* Cor do texto */
+    text-align: center; /* Alinha o texto ao centro */
+    padding: 0; /* Espaçamento interno */
+    width: 100%; /* Largura total da página */
+    position: absolute; /* Posiciona o rodapé */
+    bottom: 0; /* Alinha ao fundo da página */
+    font-size: 1rem; /* Tamanho da fonte */
+}
+.descriçao{
+    font-size: 20px;
+}
+button {
+    padding: 0.8rem 1.2rem; /* Espaçamento interno do botão */
+    border: none; /* Remove a borda padrão */
+    border-radius: 1.5rem; /* Borda arredondada */
+    background-color: #6e6e6e; /* Cor de fundo do botão */
+    color: #ffffff; /* Cor do texto do botão */
+    font-size: 1rem; /* Tamanho da fonte */
+    cursor: pointer; /* Muda o cursor para indicar que é clicável */
+    width: 150px;
+    height: 50px;
+}
+a{
+    color: #F5F7F8;
+}
+.sheldon {
+    font-family: "Shadows Into Light", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }
+  .protesto {
+    font-family: "Protest Strike", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .quebraa{
+    word-break:keep-all;
+    width: 290px;
+  }
+  .fds1{
+    position: absolute;
+    top: 0px;
+    left: 50%;
+    margin-left: -130px;
+    text-shadow: 10px 10px 10px #9000ff, -1px -10px 10px #ff0000;
+  }
+  .fds2{
+    position: absolute;
+    top: 190px;
+    left: 30px;
+    font-size: 25px;
+    word-break: keep-all;
+    width: 500px;
+  }
+  .fds3{
+    position: absolute;
+    top: 100px;
+    left: 30px;
+    color: #fefaff;
+    font-size: 30px;
+    text-shadow: 10px 10px 10px #9000ff, -1px -10px 10px #ff0000;
+  }
+  .fds4{
+    position: absolute;
+    bottom: 120px;
+    right: 40%;
+    font-size: 20px;
+    text-shadow: 10px 10px 10px #ff0000, -1px -10px 10px #ccff00;
+
+  }
+  .fds5{
+    position: absolute;
+    bottom: 60px;
+    right: 30px;
+  }
+  .fds6{
+    position: absolute;
+    bottom: 20px;
+    right: 30px;
+
+  }
+  .eugostei{
+    position:relative;
+    left: 20%;
+  }
+.minhafoto{
+    position: absolute;
+    left: 20%;
+    top: 50px;
+    width: 300px;
+}
+.obras{
+    color: #000000;
+    font-size: 35px;
+    text-shadow: 10px 10px 10px #000000, -1px -10px 10px #000000;
+}
